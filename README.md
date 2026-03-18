@@ -70,7 +70,7 @@ s.close()
 
 server:
 
-![alt text](<Screenshot 2026-03-18 102939-2.png>)
+![alt text](<Screenshot 2026-03-18 102939-1.png>)
 
 client:
 ![alt text](<Screenshot 2026-03-18 103258.png>)
